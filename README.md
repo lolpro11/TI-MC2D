@@ -1,5 +1,3 @@
-Thank you for downloading Jens' Minecraft 2D!
-
 Controls:
 ‾‾‾‾‾‾‾‾‾
 - Move with the arrow keys
@@ -26,20 +24,6 @@ Controls in the inventory:
 - Use Flint and Steel by pressing [(-)] next do a flammable block
 - Apply bone meal to crops and saplings by pressing [(-)] on them
 
-
-How to transfer worlds:
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-1. Save and select your world
-2. Click "Export"
-3. Close Minecraft 2D and open the world container
-4. Select an empty slot and press ctrl+V
-5. Send the world container file to another calculator and open it
-6. Select your world and click "Export"
-7. Close the world container and open Minecraft 2D
-8. Click "Play", then "Create New World", then "Import"
-9. Press ctrl+V
-
-
 How to install mods:
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 1. Place the mod file into the MyLib folder (if you use the student software emulator, use Documents\TI-Nspire\MyLib)
@@ -52,4 +36,4 @@ How to install mods:
 Contact:
 ‾‾‾‾‾‾‾‾
 If you found a bug, have a suggestion (other than redstone and 2 layer system ;) or want to tell me something else post it on the omnimaga topic: http://www.omnimaga.org/index.php?topic=16457
-Or send an eMail to jens.software@googlemail.com
+Or send an eMail to lolpro11lolx@gmail.com
