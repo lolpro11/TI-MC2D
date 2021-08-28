@@ -36,4 +36,4 @@ How to install mods:
 Contact:
 ‾‾‾‾‾‾‾‾
 If you found a bug, have a suggestion (other than redstone and 2 layer system ;) or want to tell me something else post it on the omnimaga topic: http://www.omnimaga.org/index.php?topic=16457
-Or send an eMail to lolpro11lolx@gmail.com
+Or send an email to lolpro11lolx@gmail.com
