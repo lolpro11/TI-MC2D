@@ -1,5 +1,4 @@
-Controls:
-‾‾‾‾‾‾‾‾‾
+#Controls:
 - Move with the arrow keys
 - Jump with arrow up
 - Select block to interact with the mouse or with the numpad
@@ -24,8 +23,7 @@ Controls in the inventory:
 - Use Flint and Steel by pressing [(-)] next do a flammable block
 - Apply bone meal to crops and saplings by pressing [(-)] on them
 
-How to install mods:
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+#How to install mods:
 1. Place the mod file into the MyLib folder (if you use the student software emulator, use Documents\TI-Nspire\MyLib)
 2. Refresh libraries ([doc] => 6)
 3. Open Minecraft 2D and click "Mods"
@@ -33,7 +31,6 @@ How to install mods:
 5. Restart the game
 
 
-Contact:
-‾‾‾‾‾‾‾‾
+#Contact:
 If you found a bug, have a suggestion (other than redstone and 2 layer system ;) or want to tell me something else post it on the omnimaga topic: http://www.omnimaga.org/index.php?topic=16457
 Or send an email to lolpro11lolx@gmail.com
