@@ -3234,11 +3234,9 @@ end
 
 ----- light related functions -----
 function editLight(lx, ly, range, str)    -- str says if light is added (str=1) or removed (str=-1)
-    local abs = math.abs
-
     local dx, lightMapColumn
     for by = math.max(ly - range, worldEnd.bottom), math.min(ly + range, worldEnd.top) do
-        dx = range - abs(by - ly)
+        dx = range - math.abs(by - ly)
         for bx = lx - dx, lx + dx do
             lightMapColumn = lightMap[bx]
             if (lightMapColumn) then
@@ -3246,13 +3244,12 @@ function editLight(lx, ly, range, str)    -- str says if light is added (str=1) 
             end
         end
     end
-
     --[[
     local bx, h
     for dx = -range, range do
         bx = lx + dx
         if lightMap[bx] then
-            h = range - abs(dx)
+            h = range - math.abs(dx)
             for by = max(ly - h, worldEnd.bottom), min(ly + h, worldEnd.top) do
                 lightMap[bx][by] = lightMap[bx][by] + str
             end
