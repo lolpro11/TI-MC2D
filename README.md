@@ -30,7 +30,8 @@ Controls in the inventory:
 4. Click "Add Mod" and enter the name of the file of the mod
 5. Restart the game
 
-
+# Screenshot
+![yes](http://www.ticalc.org/archives/files/ss/850/85074.gif)
 # Contact:
 If you found a bug, have a suggestion (other than redstone and 2 layer system ;) or want to tell me something else post it on the omnimaga [topic](https://www.omnimaga.org/ti-nspire-projects/minecraft-2d-for-ti-nspire/)
 Or send an email to lolpro11lolx@gmail.com
