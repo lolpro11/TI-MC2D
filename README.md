@@ -40,4 +40,4 @@ Or send an email to lolpro11lolx@gmail.com
 - Weather
 - Boats and Minecarts
 - Signs
-- [add more blocks](https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/df/BlockCSS.png/revision/latest?cb=20211022010030&cb=20211022010030&amp;version=1634864434773&amp;format=original&format=original)
+- [add more blocks](https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/df/BlockCSS.png/revision/latest)
