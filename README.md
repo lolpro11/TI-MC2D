@@ -32,5 +32,12 @@ Controls in the inventory:
 
 
 # Contact:
-If you found a bug, have a suggestion (other than redstone and 2 layer system ;) or want to tell me something else post it on the omnimaga topic: https://www.omnimaga.org/ti-nspire-projects/minecraft-2d-for-ti-nspire/
+If you found a bug, have a suggestion (other than redstone and 2 layer system ;) or want to tell me something else post it on the omnimaga [topic](https://www.omnimaga.org/ti-nspire-projects/minecraft-2d-for-ti-nspire/)
 Or send an email to lolpro11lolx@gmail.com
+
+#TODO
+- Redstone
+- Weather
+- Boats and Minecarts
+- Signs
+- [add more blocks](https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/df/BlockCSS.png/revision/latest?cb=20211022010030&cb=20211022010030&amp;version=1634864434773&amp;format=original&format=original)
